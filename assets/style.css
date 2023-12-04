@@ -1,0 +1,154 @@
+body {
+  font-size: 13px;
+  background-color: hsl(0, 0%, 81%);
+  font-family: "Barlow Semi Condensed";
+}
+
+body {
+  font-size: 13px;
+  font-family: "Barlow Semi Condensed";
+}
+
+.flexB {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 1500px;
+}
+
+.flex_child1 {
+  width: 600px;
+  height: 400px;
+  flex-direction: row;
+}
+
+.flex_child2 {
+  width: 200px;
+  height: 400px;
+  flex-direction: row;
+}
+
+.petit1 {
+  margin: 15px;
+  border-radius: 15px;
+  border: none;
+  background-color: hsl(263, 55%, 52%);
+  padding: 20px;
+  width: 400px;
+  color: hsl(0, 0%, 100%);
+}
+
+.p1 {
+  font-size: large;
+}
+
+.petit2 {
+  margin: 15px;
+  border-radius: 15px;
+  border: none;
+  background-color: hsl(217, 19%, 35%);
+  padding: 20px;
+  width: 200px;
+  color: hsl(0, 0%, 100%);
+}
+
+.petit3 {
+  margin: 15px;
+  border-radius: 15px;
+  border: none;
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px;
+  width: 200px;
+}
+
+.petit4 {
+  margin: 15px;
+  border-radius: 15px;
+  border: none;
+  background-color: hsl(219, 29%, 14%);
+  padding: 20px;
+  width: 400px;
+  color: hsl(0, 0%, 100%);
+}
+
+.box2 {
+  display: flex;
+}
+
+.box1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.box3 {
+  margin: 15px;
+  border-radius: 15px;
+  border: none;
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px;
+  width: 200px;
+  color: hsl(219, 29%, 14%);
+}
+
+.flex_D {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.flex_J {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.flex_Je {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.flex_pa {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.phD {
+  border-radius: 50%;
+}
+
+.phJ {
+  border-radius: 50%;
+}
+
+.phJe {
+  border-radius: 50%;
+}
+
+.phk {
+  border-radius: 50%;
+}
+
+.phpa {
+  border-radius: 50%;
+}
+
+:root {
+  --light-gray: hsl(0, 0%, 81%);
+  --light-grayish-blue: hsl(210, 46%, 95%);
+}
+
+._h2 {
+  color: var(--light-gray);
+}
+
+._h2 {
+  color: hsla(0, 0%, 81%, 0.5);
+}
+
+.p2 {
+  color: hsla(0, 0%, 81%, 0.7);
+}/*# sourceMappingURL=style.css.map */
